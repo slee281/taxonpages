@@ -13,7 +13,7 @@ The collaborative site is designed to display the diversity of Anthribidae acros
 ![ASUCOB0014307_lateral_edited_1613605757](https://github.com/anthribidae/species/assets/69399374/76e3efef-828d-435f-8ecf-86ecc5a84955)
 
 ## Contact
-Please contact us via email (samanta.orellana[at]ku.edu) for more information.   
+Please contact us via email (slee281[at]asu.edu) for more information.   
 
 ## Citing
 * This website - {{frontmatter.citation}}
